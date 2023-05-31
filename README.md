@@ -1,7 +1,7 @@
 # Prework Study Guide Webpage
 
 ## Description
-We created a webpage that allowed us to access and study the information we have learned through our prework for bootcamp. This makes it easier for me in bootcamp to go back to my notes to help if I find myself with a roadblock. Having notes for our previous lessons will allow for me to have an easier time figuring out a problem I am having toruble with. I learned how to apply CSS, HTML, and JavaScript to my webpage.
+We created a webpage that allowed us to access and study the information we have learned through our prework for bootcamp. This makes it easier for me in bootcamp to go back to my notes to help if I find myself with a roadblock. Having notes for our previous lessons will allow for me to have an easier time figuring out a problem I am having trouble with. I learned how to apply CSS, HTML, and JavaScript to my webpage.
 
 ## Installation
 
